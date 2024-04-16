@@ -1,4 +1,4 @@
-import { log } from "console";
+#! usr/bin/env node
 import inquirer from "inquirer";
 let myTodos = [];
 let addMore = true;
